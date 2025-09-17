@@ -9,7 +9,7 @@
 
 ## 🏢 Work Experience
 
-Tekton Space 2021.08.09 ~ 2024.03, (Client Programmer)
+- Tekton Space 2021.08.09 ~ 2024.03, (Client Programmer)
 
 ## 🔧 Technical Skills
 
