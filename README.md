@@ -38,6 +38,5 @@ Tool
 
 ## 📱 Contact
 
-<a href="goeuni33@gmail.com"><img src="![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-goeuni33@gmail.com/"></a>
-<a href="https://excessive-random-7c7.notion.site/Unity-Client-Programmer-465c78bb2ef74e22a3177d9a75687486?source=copy_link"><img src="![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)"/></a>
+<a href="goeuni33@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://excessive-random-7c7.notion.site/Unity-Client-Programmer-465c78bb2ef74e22a3177d9a75687486?source=copy_link"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
